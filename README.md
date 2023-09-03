@@ -2,10 +2,12 @@
 
 Esta es la landing page y página principal de [perfumeriahebe.es](https://perfumeriahebe.es).
 
+![Logo de Agua de Antequera](./src/img/Azucenas%20-%20Agua%20de%20Antequera.png)
+
 ## Fuentes
 
-Para los cuerpos de los textos se utilizará *Assistant*. Enlace a [*bunny.net*](https://fonts.bunny.net/family/assistant).  
-Para los subtítulos se utilizará *Alike*. Enlace a [*bunny.net*](https://fonts.bunny.net/family/alike).
+Para los cuerpos de los textos se utilizará *Assistant*. Enlace a [*bunny.net*](https://fonts.bunny.net/family/assistant) y [*Fontsource*](https://fontsource.org/fonts/assistant).  
+Para los subtítulos se utilizará *Alike*. Enlace a [*bunny.net*](https://fonts.bunny.net/family/alike) y [*Fontsource*](https://fontsource.org/fonts/alike).
 
 ## Colores
 
