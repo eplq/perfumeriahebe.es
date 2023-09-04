@@ -1,4 +1,7 @@
 ---
+import { Image } from "astro:assets";
+
+import titulo from "../img/Completo fondo transparente - Perfumeria Hebe.png";
 ---
 
 <html lang="es">
@@ -9,8 +12,16 @@
 		<meta name="generator" content={Astro.generator} />
 		<title>Perfumería Hebe - Tu perfumería en Antequera</title>
 	</head>
-	<body>
-		<h1>Perfumería Hebe</h1>
+	<body class="bg-background text-text">
+		<div class="">
+			<div>
+				<h1>Perfumería Hebe</h1>
+				<p>Tu perfumería en Antequera desde 1987</p>
+			</div>
+			<div>
+				<Image src={titulo} alt="Logo de Perfumería Hebe con la Gota" />
+			</div>
+		</div>
 
 		<section id="quienes_somos">
 			<h2>Nuestra tienda</h2>
@@ -19,6 +30,8 @@
 			<p>Perfumería Hebe es, por tanto, un pequeño templo de belleza en el centro de la ciudad en el que podrás vivir una experiencia inolvidable a través de los aromas de sus exclusivas fragancias, la sensorialidad de sus magníficos productos y un auténtico viaje de paz y bienestar durante sus servicios de cuidado facial y corporal realizados en cabina.</p>
 			<p>Para su gerente, María del Carmen López Benítez, después de 34 años al frente del negocio, su principal visión de futuro es seguir ofreciendo la mejor calidad y atención al cliente.</p>
 		</section>
+
+		<hr>
 
 		<section id="mapa">
 			<h2>¿Dónde estamos?</h2>
