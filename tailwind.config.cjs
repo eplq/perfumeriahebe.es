@@ -14,6 +14,7 @@ module.exports = {
 			},
 			fontFamily: {
 				sans: ['Assistant', 'sans-serif', ...defaultTheme.fontFamily.sans],
+				serif: ['Alike', 'serif', ...defaultTheme.fontFamily.serif],
 			},
 		},
 	},
